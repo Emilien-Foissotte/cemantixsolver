@@ -1,0 +1,6 @@
+Data obtained here
+https://fauconnier.github.io/#data
+
+frWac_no_postag_phrase_500_cbow_cut100.bin
+frWac_no_postag_phrase_500_cbow_cut10.bin
+frWac_postag_no_phrase_1000_skip_cut100.bin
